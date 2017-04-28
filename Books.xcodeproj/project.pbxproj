@@ -15,6 +15,7 @@
 		65A6A95D1EB1AD20007BBF69 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A6A95C1EB1AD20007BBF69 /* LoginViewController.swift */; };
 		65A6A95F1EB1AFBA007BBF69 /* MainTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A6A95E1EB1AFBA007BBF69 /* MainTableViewController.swift */; };
 		65A6A9611EB1BDF3007BBF69 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A6A9601EB1BDF3007BBF69 /* PhotoViewController.swift */; };
+		65A6A9631EB2D993007BBF69 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A6A9621EB2D993007BBF69 /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		65A6A95C1EB1AD20007BBF69 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		65A6A95E1EB1AFBA007BBF69 /* MainTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTableViewController.swift; sourceTree = "<group>"; };
 		65A6A9601EB1BDF3007BBF69 /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		65A6A9621EB2D993007BBF69 /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				65A6A95C1EB1AD20007BBF69 /* LoginViewController.swift */,
 				65A6A95E1EB1AFBA007BBF69 /* MainTableViewController.swift */,
 				65A6A9601EB1BDF3007BBF69 /* PhotoViewController.swift */,
+				65A6A9621EB2D993007BBF69 /* Book.swift */,
 			);
 			path = Books;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				65A6A95F1EB1AFBA007BBF69 /* MainTableViewController.swift in Sources */,
 				65A6A95D1EB1AD20007BBF69 /* LoginViewController.swift in Sources */,
+				65A6A9631EB2D993007BBF69 /* Book.swift in Sources */,
 				65A6A94D1EB18C44007BBF69 /* ViewController.swift in Sources */,
 				65A6A94B1EB18C44007BBF69 /* AppDelegate.swift in Sources */,
 				65A6A9611EB1BDF3007BBF69 /* PhotoViewController.swift in Sources */,
